@@ -1,0 +1,149 @@
+[
+    {
+      "filename": "index.md",
+      "attr":
+      {
+	"data-autoslide": 5000,
+	"data-background-image": "resources/images/malte-wingen-J6fmT2TosSA-unsplash.jpg"
+      }
+    },
+    {
+        "filename": "1.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/florian-weichelt-viZ51OgsUrA-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "2.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/Flammarion_Colored.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "3.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/dan-gold-P_0R02ArdLE-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "4.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/siora-photography-HA8nANYdXE0-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "5.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/jonas-vincent-xulIYVIbYIc-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "6.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/joakim-honkasalo-AgZjK8wgwuU-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "7.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/duong-chung-3QDe3kGZjXY-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "8.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/allie-smith-A7USGPM047g-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "9.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/ferenc-horvath-4gKHjKG7ty4-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "10.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/jonas-jacobsson-2xaF4TbjXT0-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "11.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/daniel-jensen-UDleHDOhBZ8-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "12.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/nathan-dumlao-pMW4jzELQCw-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "13.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/sebastiaan-stam-RChZT-JlI9g-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "14.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/overture-creations-mOXLzrzBorg-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "15.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/dmitry-ratushny-xsGApcVbojU-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "16.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/david-travis-WC6MJ0kRzGw-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "17.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/swapnil-dwivedi-w46tRF64qNc-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "18.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/stephanie-koehler-4v_Ujy1FP04-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "19.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/daiga-ellaby-eB6RTmE2ky4-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   },
+    {
+        "filename": "20.html",
+        "attr": {
+            "data-background-image": "resources/images/ignite/steve-bruce-eekwSCKBnpY-unsplash.jpg",
+            "data-background-size": "contain"
+        }
+   }]

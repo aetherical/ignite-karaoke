@@ -19,7 +19,7 @@ It is built on the shoulders of:
 
 ## Configuration
 
-1. In order to run this, you need `npm` and `bower` installed.
+1. In order to run this, you need `npm`, `grunt`, and `bower` installed.
 2. The script which randomizes things requires `bash` and `shuf`
 3. Execute the following: `npm install && bower install`
 4. Copy image files into `resources/images/ignite`; you need at least 20. The more the better! There are some sample files in the directory.

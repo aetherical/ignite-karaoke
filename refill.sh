@@ -6,6 +6,8 @@ set -o pipefail
 SCRIPT_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/$(basename "${BASH_SOURCE[0]}")"
 SCRIPT_DIR=$(dirname ${SCRIPT_PATH})
 
+SLIDES=${1:-20}
+
 cd $SCRIPT_DIR
 
 # [
@@ -32,7 +34,7 @@ cat > /tmp/$$ <<EOF
 EOF
 
 i=1
-for file in $(find resources/images/ignite -type f | shuf -n 20)
+for file in $(find resources/images/ignite -type f | shuf -n ${SLIDES} --random-source /dev/random)
 do
 
     echo "    {" >> /tmp/$$
@@ -43,7 +45,7 @@ do
     echo "        }" >> /tmp/$$
     echo -n "   }" >> /tmp/$$
     i=$((i + 1))
-    if [[ $i -lt 21 ]]; then
+    if [[ $i -le ${SLIDES} ]]; then
 	echo "," >> /tmp/$$
     fi
 done

@@ -36,7 +36,7 @@ EOF
 i=1
 for file in $(find resources/images/ignite -type f | shuf -n ${SLIDES} --random-source /dev/random)
 do
-
+    touch slides/${i}.html
     echo "    {" >> /tmp/$$
     echo "        \"filename\": \"${i}.html\"," >> /tmp/$$
     echo "        \"attr\": {" >> /tmp/$$

@@ -37,7 +37,7 @@ i=1
 for file in $(find resources/images/ignite -type f | shuf -n ${SLIDES} --random-source /dev/random)
 do
     if [[ ! -e slides/${i}.html ]]; then
-	touch slides/${i}.html
+	echo "" > slides/${i}.html
     fi
     echo "    {" >> /tmp/$$
     echo "        \"filename\": \"${i}.html\"," >> /tmp/$$
